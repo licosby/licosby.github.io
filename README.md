@@ -9,5 +9,5 @@ that I can showcase my digital works to future job prospects.
 This webpage will serve as a basis for a future bio section of my digital
 portfolio. 
 
-https://github.com/licosby
+https://licosby.github.io
 
