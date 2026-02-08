@@ -37,37 +37,30 @@ h3 {
 
 p {
     margin-left: 10px;
-    margin-bottom: 0;
+    margin-bottom: 5px;
     color: #0d3c49;
     font-family: "Georgia", serif;
-    line-height: 1.6;
+    line-height: 1.5;
 }
 
 .hobbies {
     color: #54869B;
     margin-left: 10px;
     margin-bottom: 0px;
+    padding-top: 10px;
 }
-
 ul {
     margin-top: 5px;
-}
-
-.gallery {
-    color: #54869B;
-    margin-left: 10px;
+    padding-bottom: 10px
 }
 
 .contact {
     color: #54869B;
-    margin-bottom: 5px;
+    margin-bottom: 0px;
     margin-left: 10px;
 }
-.email {
-    margin-top: 5px;
-    margin-bottom: 5px;
-}
+
 .github {
-    margin-top: 5px;
+    margin-top: 2px;
 }
 
