@@ -13,50 +13,6 @@ body {
    text-align: Left
    }
 
-nav {
-    position:fixed;
-    left: 10px;
-    width: 100%;
-    background-color: transparent;
-    font-size: 28px;
-    z-index: 500;
-    display: flex;
-    justify-content: space-around;
-    padding: 10px 0;
-}
-
-nav a {
-    text-decoration: none;
-    color: #124a52;
-}
-
-nav a:hover {
-    color: #124a52;
-}
-
-.header-inner,
-.nav-inner {
-    max-width: 1100px;
-    margin: 0px;
-    width: 100%;
-}
-
-nav {
-    position: fixed;
-    left: 15px;
-    width: 100%;
-    background-color: transparent;
-    z-index: 1000;
-    padding: 10px 0;
-}
-
-.nav-inner {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    margin-bottom: 5px;
-}
-
 main {
     background-color: #330d43;
     margin: 40px;
@@ -82,7 +38,6 @@ h3 {
 p {
     margin-left: 10px;
     margin-bottom: 0;
-    padding-top: 100px;
     color: #0d3c49;
     font-family: "Georgia", serif;
     line-height: 1.6;
